@@ -1,0 +1,53 @@
+[
+	{
+		"name": "kaz",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kaz",
+		"shell": "/bin/bash",
+		"uid": 60001,
+		"gid": 60001
+	},
+	{
+		"name": "kaz",
+		"passwd": "",
+		"gid": 60001,
+		"members": ["kaz"]
+	},
+	{
+		"name": "tohutohu",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/tohutohu",
+		"shell": "/bin/bash",
+		"uid": 60002,
+		"gid": 60002
+	},
+	{
+		"name": "tohutohu",
+		"passwd": "",
+		"gid": 60002,
+		"members": ["tohutohu"]
+	},
+	{
+		"name": "wtks",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/wtks",
+		"shell": "/bin/bash",
+		"uid": 60003,
+		"gid": 60003
+	},
+	{
+		"name": "wtks",
+		"passwd": "",
+		"gid": 60003,
+		"members": ["wtks"]
+	},
+	{
+		"name": "sysad",
+		"passwd": "",
+		"gid": 60000,
+		"members": ["kaz", "tohutohu", "wtks"]
+	}
+]
