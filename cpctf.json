@@ -1,0 +1,38 @@
+[
+	{
+		"name": "kaz",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/kaz",
+		"shell": "/bin/bash",
+		"uid": 60001,
+		"gid": 60001
+	},
+	{
+		"name": "kaz",
+		"passwd": "",
+		"gid": 60001,
+		"members": ["kaz"]
+	},
+	{
+		"name": "FourmiSushi",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/FourmiSushi",
+		"shell": "/bin/bash",
+		"uid": 60004,
+		"gid": 60004
+	},
+	{
+		"name": "FourmiSushi",
+		"passwd": "",
+		"gid": 60004,
+		"members": ["FourmiSushi"]
+	},
+	{
+		"name": "cpctf",
+		"passwd": "",
+		"gid": 60000,
+		"members": ["kaz", "FourmiSushi"]
+	}
+]
