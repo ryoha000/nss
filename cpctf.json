@@ -30,9 +30,24 @@
 		"members": ["FourmiSushi"]
 	},
 	{
+		"name": "Nagarei",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Nagarei",
+		"shell": "/bin/bash",
+		"uid": 60005,
+		"gid": 60005
+	},
+	{
+		"name": "Nagarei",
+		"passwd": "",
+		"gid": 60005,
+		"members": ["Nagarei"]
+	},
+	{
 		"name": "cpctf",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["kaz", "FourmiSushi"]
+		"members": ["kaz", "FourmiSushi", "Nagarei"]
 	}
 ]
