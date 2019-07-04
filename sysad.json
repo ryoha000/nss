@@ -45,9 +45,24 @@
 		"members": ["wtks"]
 	},
 	{
+		"name": "nagatea",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/nagatea",
+		"shell": "/bin/bash",
+		"uid": 60004,
+		"gid": 60004
+	},
+	{
+		"name": "nagatea",
+		"passwd": "",
+		"gid": 60004,
+		"members": ["nagatea"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["kaz", "tohutohu", "wtks"]
+		"members": ["kaz", "tohutohu", "wtks", "nagatea"]
 	}
 ]
