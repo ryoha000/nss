@@ -1,0 +1,98 @@
+[
+  {
+    "name": "tohutohu",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/tohutohu",
+    "shell": "/bin/bash",
+    "uid": 60002,
+    "gid": 60002
+  },
+  {
+    "name": "tohutohu",
+    "passwd": "",
+    "gid": 60002,
+    "members": ["tohutohu"]
+  },
+  {
+    "name": "wtks",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/wtks",
+    "shell": "/bin/bash",
+    "uid": 60003,
+    "gid": 60003
+  },
+  {
+    "name": "wtks",
+    "passwd": "",
+    "gid": 60003,
+    "members": ["wtks"]
+  },
+  {
+    "name": "nagatea",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/nagatea",
+    "shell": "/bin/bash",
+    "uid": 60004,
+    "gid": 60004
+  },
+  {
+    "name": "nagatea",
+    "passwd": "",
+    "gid": 60004,
+    "members": ["nagatea"]
+  },
+  {
+    "name": "Nagarei",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/Nagarei",
+    "shell": "/bin/bash",
+    "uid": 60005,
+    "gid": 60005
+  },
+  {
+    "name": "Nagarei",
+    "passwd": "",
+    "gid": 60005,
+    "members": ["Nagarei"]
+  },
+  {
+    "name": "motoki317",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/motoki317",
+    "shell": "/bin/bash",
+    "uid": 60006,
+    "gid": 60006
+  },
+  {
+    "name": "motoki317",
+    "passwd": "",
+    "gid": 60006,
+    "members": ["motoki317"]
+  },
+  {
+    "name": "sapphi-red",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/sapphi-red",
+    "shell": "/bin/bash",
+    "uid": 60007,
+    "gid": 60007
+  },
+  {
+    "name": "sapphi-red",
+    "passwd": "",
+    "gid": 60007,
+    "members": ["sapphi-red"]
+  },
+  {
+    "name": "sysad",
+    "passwd": "",
+    "gid": 60000,
+    "members": ["tohutohu", "wtks", "nagatea", "Nagarei", "motoki317", "sapphi-red"]
+  }
+]
