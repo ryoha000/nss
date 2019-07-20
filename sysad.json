@@ -1,20 +1,5 @@
 [
 	{
-		"name": "kaz",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/kaz",
-		"shell": "/bin/bash",
-		"uid": 60001,
-		"gid": 60001
-	},
-	{
-		"name": "kaz",
-		"passwd": "",
-		"gid": 60001,
-		"members": ["kaz"]
-	},
-	{
 		"name": "tohutohu",
 		"passwd": "",
 		"gecos": "",
@@ -63,6 +48,6 @@
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["kaz", "tohutohu", "wtks", "nagatea"]
+		"members": ["tohutohu", "wtks", "nagatea"]
 	}
 ]
