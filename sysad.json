@@ -50,13 +50,13 @@
 		"gecos": "",
 		"dir": "/home/FujishigeTemma",
 		"shell": "/bin/bash",
-		"uid": 60005,
-		"gid": 60005
+		"uid": 60008,
+		"gid": 60008
 	},
 	{
 		"name": "FujishigeTemma",
 		"passwd": "",
-		"gid": 60005,
+		"gid": 60008,
 		"members": ["FujishigeTemma"]
 	},
 	{
@@ -65,13 +65,13 @@
 		"gecos": "",
 		"dir": "/home/mazrean",
 		"shell": "/bin/bash",
-		"uid": 60006,
-		"gid": 60006
+		"uid": 60009,
+		"gid": 60009
 	},
 	{
 		"name": "mazrean",
 		"passwd": "",
-		"gid": 60006,
+		"gid": 60009,
 		"members": ["mazrean"]
 	},
 	{
