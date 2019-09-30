@@ -45,9 +45,39 @@
 		"members": ["nagatea"]
 	},
 	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/FujishigeTemma",
+		"shell": "/bin/bash",
+		"uid": 60008,
+		"gid": 60008
+	},
+	{
+		"name": "FujishigeTemma",
+		"passwd": "",
+		"gid": 60008,
+		"members": ["FujishigeTemma"]
+	},
+	{
+		"name": "mazrean",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/mazrean",
+		"shell": "/bin/bash",
+		"uid": 60009,
+		"gid": 60009
+	},
+	{
+		"name": "mazrean",
+		"passwd": "",
+		"gid": 60009,
+		"members": ["mazrean"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea"]
+		"members": ["tohutohu", "wtks", "nagatea", "FujishigeTemma", "mazrean"]
 	}
 ]
