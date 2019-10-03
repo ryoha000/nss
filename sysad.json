@@ -75,9 +75,24 @@
 		"members": ["mazrean"]
 	},
 	{
+		"name": "motoki317",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/motoki317",
+		"shell": "/bin/bash",
+		"uid": 60010,
+		"gid": 60010
+	},
+	{
+		"name": "motoki317",
+		"passwd": "",
+		"gid": 60010,
+		"members": ["motoki317"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "FujishigeTemma", "mazrean"]
+		"members": ["tohutohu", "wtks", "nagatea", "FujishigeTemma", "mazrean", "motoki317"]
 	}
 ]
