@@ -80,13 +80,13 @@
 		"gecos": "",
 		"dir": "/home/motoki317",
 		"shell": "/bin/bash",
-		"uid": 60010,
+		"uid": 60006,
 		"gid": 60010
 	},
 	{
 		"name": "motoki317",
 		"passwd": "",
-		"gid": 60010,
+		"gid": 60006,
 		"members": ["motoki317"]
 	},
 	{
