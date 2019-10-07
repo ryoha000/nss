@@ -89,10 +89,25 @@
     "gid": 60007,
     "members": ["sapphi-red"]
   },
+	{
+		"name": "mazrean",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/mazrean",
+		"shell": "/bin/bash",
+		"uid": 60009,
+		"gid": 60009
+	},
+	{
+		"name": "mazrean",
+		"passwd": "",
+		"gid": 60009,
+		"members": ["mazrean"]
+	},
   {
     "name": "sysad",
     "passwd": "",
     "gid": 60000,
-    "members": ["tohutohu", "wtks", "nagatea", "Nagarei", "motoki317", "sapphi-red"]
+    "members": ["tohutohu", "wtks", "nagatea", "Nagarei", "motoki317", "sapphi-red","mazrean"]
   }
 ]
