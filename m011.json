@@ -95,13 +95,13 @@
 		"gecos": "",
 		"dir": "/home/mazrean",
 		"shell": "/bin/bash",
-		"uid": 60008,
-		"gid": 60008
+		"uid": 60009,
+		"gid": 60009
 	},
 	{
 		"name": "mazrean",
 		"passwd": "",
-		"gid": 60008,
+		"gid": 60009,
 		"members": ["mazrean"]
 	},
   {
