@@ -44,6 +44,21 @@
 		"gid": 60004,
 		"members": ["nagatea"]
 	},
+ 	{
+		"name": "Nagarei",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Nagarei",
+		"shell": "/bin/bash",
+		"uid": 60005,
+		"gid": 60005
+	},
+	{
+		"name": "Nagarei",
+		"passwd": "",
+		"gid": 60005,
+		"members": ["Nagarei"]
+	},
 	{
 		"name": "FujishigeTemma",
 		"passwd": "",
@@ -93,6 +108,6 @@
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "FujishigeTemma", "mazrean", "motoki317"]
+		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317"]
 	}
 ]
