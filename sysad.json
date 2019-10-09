@@ -105,9 +105,24 @@
 		"members": ["motoki317"]
 	},
 	{
+		"name": "fuji8",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/fuji8",
+		"shell": "/bin/bash",
+		"uid": 60010,
+		"gid": 60010
+	},
+	{
+		"name": "fuji8",
+		"passwd": "",
+		"gid": 60010,
+		"members": ["fuji8"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317"]
+		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8"]
 	}
 ]
