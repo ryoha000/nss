@@ -120,9 +120,24 @@
 		"members": ["fuji8"]
 	},
 	{
+		"name": "ryoha",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ryoha",
+		"shell": "/bin/bash",
+		"uid": 60011,
+		"gid": 60011
+	},
+	{
+		"name": "ryoha",
+		"passwd": "",
+		"gid": 60011,
+		"members": ["ryoha"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8"]
+		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "ryoha"]
 	}
 ]
