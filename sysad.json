@@ -135,9 +135,24 @@
 		"members": ["wasabi315"]
 	},
 	{
+		"name": "60deg",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/60deg",
+		"shell": "/bin/bash",
+		"uid": 60012,
+		"gid": 60012
+	},
+	{
+		"name": "60deg",
+		"passwd": "",
+		"gid": 60012,
+		"members": ["60deg"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "wasabi315"]
+		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "wasabi315", "60deg"]
 	}
 ]
