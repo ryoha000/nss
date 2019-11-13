@@ -120,24 +120,54 @@
 		"members": ["fuji8"]
 	},
 	{
-		"name": "ryoha000",
+		"name": "wasabi315",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/ryoha000",
+		"dir": "/home/wasabi315",
 		"shell": "/bin/bash",
 		"uid": 60011,
 		"gid": 60011
 	},
 	{
-		"name": "ryoha000",
+		"name": "wasabi315",
 		"passwd": "",
 		"gid": 60011,
+		"members": ["wasabi315"]
+	},
+	{
+		"name": "yto60",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/yto60",
+		"shell": "/bin/bash",
+		"uid": 60012,
+		"gid": 60012
+	},
+	{
+		"name": "yto60",
+		"passwd": "",
+		"gid": 60012,
+		"members": ["yto60"]
+	},
+  {
+		"name": "ryoha000",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ryoha000",
+		"shell": "/bin/bash",
+		"uid": 60013,
+		"gid": 60013
+	},
+	{
+		"name": "ryoha000",
+		"passwd": "",
+		"gid": 60013,
 		"members": ["ryoha000"]
 	},
 	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
-		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "ryoha000"]
+		"members": ["tohutohu", "wtks", "nagatea", "Nagarei", "FujishigeTemma", "mazrean", "motoki317", "fuji8", "wasabi315", "yto60", "ryoha000"]
 	}
 ]
